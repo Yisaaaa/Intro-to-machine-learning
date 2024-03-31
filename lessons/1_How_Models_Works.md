@@ -13,3 +13,4 @@ In this lesson we started the model with what we call a **Decision tree**.
 A Decision tree is just like the data structure tree that we know.
 
 The set of capturing or forming patterns from data is called fitting or training the model. The data that is used to train the model is called training data (very original huh).
+
